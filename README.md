@@ -1,2 +1,1 @@
-# worstgameever
-Made for #crappygamejam
+# Game
